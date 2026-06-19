@@ -5,7 +5,7 @@ Two-stage classifier to automate a process of accurately detecting mitotic figur
 
 <br>
 
-### [AI Fluency Test](https://castorai.in)
+### [AI Fluency Test](https://ai-fluency-test.vercel.app/)
 LLM-powered platform that evaluates how effectively people apply AI tools by generating realistic work scenarios from uploaded resume using GPT-4o-mini and scores responses on a 0–100 rubric focused on practical reasoning and AI tool-usage strategy.
 
 <br>

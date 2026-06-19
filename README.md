@@ -1,6 +1,6 @@
 ## Projects
 
-### [Mitosis Detection](https://github.com/shanthan5589/mitosis-detection)
+### [Mitosis Detection](https://github.com/shanthan5589/mitosis-detector)
 Two-stage classifier to automate a process of accurately detecting mitotic figures in 500×500 histopathology image patches extracted from whole-slide images across varying staining protocols. Achieved F1: 0.774 on 11 fully held-out test slides. Deployed the complete pipeline as a REST API using FastAPI, containerized with Docker, and hosted on AWS EC2.
 
 <br>

@@ -5,10 +5,20 @@ Two-stage classifier to automate a process of accurately detecting mitotic figur
 
 <br>
 
+### [Event Horizon](https://huggingface.co/spaces/shanthan5589/event-horizon)
+RAG-powered Q&A system over black hole physics literature.
+
+<br>
+
 ### [AI Fluency Test](https://ai-fluency-test.vercel.app/)
 LLM-powered platform that evaluates how effectively people apply AI tools by generating realistic work scenarios from uploaded resume using GPT-4o-mini and scores responses on a 0–100 rubric focused on practical reasoning and AI tool-usage strategy.
 
 <br>
+
+### [Edu](https://edu.castorai.in)
+Edu is an AI tool proficiency assessment platform. Scores users across five domains on how effectively they apply AI tools, not just theoretical knowledge.
+
+<br> 
 
 ### [Mind Archive](https://archive.shanthan.dev)
 AI assisted journaling app to write down your thoughts, reflect on past entries, and brainstorm new ideas.

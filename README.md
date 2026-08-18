@@ -1,7 +1,7 @@
 ## Projects
 
 ### [microGPT](https://github.com/shanthan5589/microGPT)
-microGPT is a character-level, decoder-only Pre-LN Transformer built from scratch in PyTorch to generate Shakespeare-like text. The model has achieved a validation loss of 1.7869. The model was trained on AWS EC2 (g4dn.xlarge) instance with a single NVIDIA Tesla T4 GPU.
+microGPT is a character-level, decoder-only Pre-LN Transformer built from scratch in PyTorch to generate Shakespeare-like text. The model has achieved a validation loss of 1.7869 and it was trained on AWS EC2 (g4dn.xlarge) instance with a single NVIDIA Tesla T4 GPU.
 
 <br>
 

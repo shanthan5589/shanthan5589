@@ -1,5 +1,12 @@
 ## Projects
 
+### [mesoGPT](https://github.com/shanthan5589/mesoGPT)
+mesoGPT is a 97.7M-parameter, decoder-only Transformer built and pretrained from scratch in PyTorch on approximately 1.95B tokens using a single NVIDIA L40S, achieving a validation BPB of 1.1509.
+Built the end-to-end training stack, including a byte-level BPE tokenizer, streaming Parquet data pipeline, mixed-precision training, gradient accumulation, evaluation, checkpointing, and text generation.
+Calculated and documented the token and compute budgets, MFU, throughput, training cost and other metrics in this repository.
+
+<br>
+
 ### [microGPT](https://github.com/shanthan5589/microGPT)
 microGPT is a character-level, decoder-only Pre-LN Transformer built from scratch in PyTorch to generate Shakespeare-like text. The model has achieved a validation loss of 1.7869 and it was trained on AWS EC2 (g4dn.xlarge) instance with a single NVIDIA Tesla T4 GPU.
 

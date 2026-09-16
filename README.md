@@ -1,9 +1,7 @@
 ## Projects
 
 ### [mesoGPT](https://github.com/shanthan5589/mesoGPT)
-mesoGPT is a 97.7M-parameter, decoder-only Transformer built and pretrained from scratch in PyTorch on approximately 1.95B tokens using a single NVIDIA L40S, achieving a validation BPB of 1.1509.
-Built the end-to-end training stack, including a byte-level BPE tokenizer, streaming Parquet data pipeline, mixed-precision training, gradient accumulation, evaluation, checkpointing, and text generation.
-Calculated and documented the token and compute budgets, MFU, throughput, training cost and other metrics in this repository.
+Implemented a 97.7M-parameter decoder-only Transformer in PyTorch and pretrained it from scratch on 1.95B tokens using a single NVIDIA L40S GPU for 20.8 hours with a training cost of $38.7, achieving a validation BPB of 1.1509. Built the end-to-end training stack, including a byte-level BPE tokenizer, streaming Parquet data pipeline, mixed-precision training, gradient accumulation, evaluation, checkpointing, and text generation. Calculated and documented the token and compute budgets, MFU, throughput, training cost and other metrics in this repository.
 
 <br>
 
